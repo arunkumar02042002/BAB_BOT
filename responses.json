@@ -58,5 +58,15 @@
         "usersInput": ["why", "do", "you", "want", "this", "job"],
         "BAB_BOT_Answer": "De de na, Bhai nahi hai!",
         "requiredKeywords": ["why", "want", "job"]
+    },
+    {
+        "usersInput": ["describe", "your", "most", "challenging", "project"],
+        "BAB_BOT_Answer": "This project was my most challenging project. This project was challenging due to the need for a high level of functionality and performance.",
+        "requiredKeywords": ["challenging", "project"]
+    },
+    {
+        "usersInput": ["what", "are", "your", "salary", "expectation"],
+        "BAB_BOT_Answer": "Ab de do kuch bhi! (In Uday Shetty Style)",
+        "requiredKeywords": ["salary", "exepectation"]
     }
 ]
