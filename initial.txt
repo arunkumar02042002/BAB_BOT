@@ -1,0 +1,5 @@
+Hi, My name is BAB-BOT. I'm designed to answer common interview questions.
+If you want to see my capabilities and know more about my educational background and skills.
+You can take my mock interview here itself if you like.
+
+If you want to quit the conversation. Enter 0 any time!

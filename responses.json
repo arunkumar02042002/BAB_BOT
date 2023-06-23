@@ -1,0 +1,62 @@
+[
+    {
+        "usersInput": ["hello", "hi", "hey", "morning", "afternoon", "evening"],
+        "BAB_BOT_Answer": "Hello Sir!",
+        "requiredKeywords": []
+    },
+    {
+        "usersInput": ["see you", "goodbye", "bye", "night"],
+        "BAB_BOT_Answer": "It was nice talking to you. Stay connected!",
+        "requiredKeywords": []
+    },
+    {
+        "usersInput": ["nice", "to", "meet", "you"],
+        "BAB_BOT_Answer": "The pleasure is all mine!",
+        "requiredKeywords": ["nice", "meet", "you"]
+    },
+    {
+        "usersInput": ["how", "are", "you"],
+        "BAB_BOT_Answer": "I'm great! Thanks for asking.",
+        "requiredKeywords": ["how", "are", "you"]
+    },
+    {
+        "usersInput": ["Tell", "me", "about", "yourself"],
+        "BAB_BOT_Answer": "Meri Ek taang nakli hai, Mai hockey ka bohoth bada khiladi tha.\n     Ek din Uday bhai ko meri kisi baat pe gussa aagaya aur mere he hockey se meri taang ke do tukde kar diye.\n     Lekin dil ke bohot ache hai, Fauran mujhe hospital le gaye aur ye nakli taang lagwayi.",
+        "requiredKeywords": ["yourself", "about"]
+    },
+    {
+        "usersInput": ["what", "is", "your", "greatest", "strength"],
+        "BAB_BOT_Answer": "Never Skipped Leg Day!",
+        "requiredKeywords": ["your", "strength"]
+    },
+    {
+        "usersInput": ["what", "is", "your", "greatest", "weakness"],
+        "BAB_BOT_Answer": "I'm Weak.",
+        "requiredKeywords": ["weakness"]
+    },
+    {
+        "usersInput": ["why", "do", "you", "want", "to", "work", "here"],
+        "BAB_BOT_Answer": "I loved how you helped individuals grow.",
+        "requiredKeywords": ["work", "here"]
+    },
+    {
+        "usersInput": ["why", "should", "we", "hire", "you"],
+        "BAB_BOT_Answer": "I'm a great team player and a hard working individual.",
+        "requiredKeywords": ["why", "hire", "you"]
+    },
+    {
+        "usersInput": ["we", "will", "get", "back", "to", "you"],
+        "BAB_BOT_Answer": "I think you'll not. Feeling Sad!",
+        "requiredKeywords": ["back", "get", "you"]
+    },
+    {
+        "usersInput": ["you", "are", "hired"],
+        "BAB_BOT_Answer": "Itni Khushi, Itni Khushi mujhe aaj tak nahi hui!",
+        "requiredKeywords": ["you", "hired"]
+    },
+    {
+        "usersInput": ["why", "do", "you", "want", "this", "job"],
+        "BAB_BOT_Answer": "De de na, Bhai nahi hai!",
+        "requiredKeywords": ["why", "want", "job"]
+    }
+]
