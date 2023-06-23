@@ -20,6 +20,16 @@
         "requiredKeywords": ["how", "are", "you"]
     },
     {
+        "usersInput": ["what", "is", "your", "educational", "qualification"],
+        "BAB_BOT_Answer": "I'm graduated with B. Sc. (Computer Science) from Shyam Lal College, Delhi University.\n     During my academics, I learn about computer science and its applications.\n     I'm continously practicing and leaning new technology to deepen my knowledge.",
+        "requiredKeywords": ["educational", "qualification"]
+    },
+    {
+        "usersInput": ["what", "programming", "languages", "do", "you", "use"],
+        "BAB_BOT_Answer": "I have a deep understanding of Python and MySQL. I have done many projects using Python programming langauge including\n    rock-paper-scissor, hangman, flipkart-review-scrapper, and this one.\n    I'm also familiar with C, C++, HTML, and CSS.",
+        "requiredKeywords": ["programming", "languages"]
+    },
+    {
         "usersInput": ["Tell", "me", "about", "yourself"],
         "BAB_BOT_Answer": "Meri Ek taang nakli hai, Mai hockey ka bohoth bada khiladi tha.\n     Ek din Uday bhai ko meri kisi baat pe gussa aagaya aur mere he hockey se meri taang ke do tukde kar diye.\n     Lekin dil ke bohot ache hai, Fauran mujhe hospital le gaye aur ye nakli taang lagwayi.",
         "requiredKeywords": ["yourself", "about"]
@@ -61,7 +71,7 @@
     },
     {
         "usersInput": ["describe", "your", "most", "challenging", "project"],
-        "BAB_BOT_Answer": "This project was my most challenging project. This project was challenging due to the need for a high level of functionality and performance.",
+        "BAB_BOT_Answer": "This project was my most challenging project.\n     This project was challenging due to the need for a high level of functionality and performance.",
         "requiredKeywords": ["challenging", "project"]
     },
     {
